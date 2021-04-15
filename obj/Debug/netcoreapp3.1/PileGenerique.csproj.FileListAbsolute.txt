@@ -1,0 +1,13 @@
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.exe
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.deps.json
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.runtimeconfig.json
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.dll
+C:\Users\Administrateur\source\repos\PileGenerique\bin\Debug\netcoreapp3.1\PileGenerique.pdb
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.dll
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.pdb
+C:\Users\Administrateur\source\repos\PileGenerique\obj\Debug\netcoreapp3.1\PileGenerique.genruntimeconfig.cache
