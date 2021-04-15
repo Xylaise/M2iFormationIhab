@@ -19,7 +19,7 @@ namespace PileGenerique
         {
             for (int i = 0; i < pilesObjets.Length; i++)
             {
-                if (pilesObjets[i]==null)
+                if (pilesObjets[i].Equals(default(T)))
                 {
                     pilesObjets[i] = objet;
                     break;
